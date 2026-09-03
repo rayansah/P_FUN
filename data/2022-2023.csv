@@ -1,0 +1,33 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2022-08-07,Sun,Premier League,Matchweek 1,Home,L 1–2,Manchester Utd,Brighton,N,,38,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,,Match Report
+2022-08-13,Sat,Premier League,Matchweek 2,Away,L 0–4,Manchester Utd,Brentford,Y,FW,90,0,0,0,0,6,2,0,0,1,2,0,0,0,0,0,,,Match Report
+2022-08-22,Mon,Premier League,Matchweek 3,Home,W 2–1,Manchester Utd,Liverpool,N,,5,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,Match Report
+2022-08-27,Sat,Premier League,Matchweek 4,Away,W 1–0,Manchester Utd,Southampton,N,,23,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,,,Match Report
+2022-09-01,Thu,Premier League,Matchweek 5,Away,W 1–0,Manchester Utd,Leicester City,N,,23,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,,,Match Report
+2022-09-04,Sun,Premier League,Matchweek 6,Home,W 3–1,Manchester Utd,Arsenal,N,,33,0,0,0,0,2,0,0,0,0,0,2,1,0,0,0,,,Match Report
+2022-09-08,Thu,Europa Lg,Group stage,Home,L 0–1,eng Manchester Utd,es Real Sociedad,Y,FW,90,0,0,0,0,4,0,0,0,1,3,4,2,0,0,0,,,Match Report
+2022-09-15,Thu,Europa Lg,Group stage,Away,W 2–0,eng Manchester Utd,md Sheriff Tiraspol,Y,FW,80,1,0,1,1,3,1,0,0,1,1,0,0,0,0,0,,,Match Report
+2022-10-06,Thu,Europa Lg,Group stage,Away,W 3–2,eng Manchester Utd,cy AC Omonia,Y,FW,90,0,1,0,0,8,1,0,0,1,2,0,1,1,0,0,,,Match Report
+2022-10-09,Sun,Premier League,Matchweek 10,Away,W 2–1,Manchester Utd,Everton,N,,62,1,0,0,0,3,2,0,0,2,0,1,0,1,0,0,,,Match Report
+2022-10-13,Thu,Europa Lg,Group stage,Home,W 1–0,eng Manchester Utd,cy AC Omonia,Y,FW,90,0,0,0,0,7,2,0,0,0,0,0,1,0,0,0,,,Match Report
+2022-10-16,Sun,Premier League,Matchweek 11,Home,D 0–0,Manchester Utd,Newcastle,Y,FW,71,0,0,0,0,1,0,1,0,0,1,2,0,0,0,0,,,Match Report
+2022-10-27,Thu,Europa Lg,Group stage,Home,W 3–0,eng Manchester Utd,md Sheriff Tiraspol,Y,FW,90,1,0,0,0,7,3,0,0,1,0,1,1,0,0,0,,,Match Report
+2022-10-30,Sun,Premier League,Matchweek 14,Home,W 1–0,Manchester Utd,West Ham,Y,FW,90,0,0,0,0,6,1,0,0,0,1,0,1,0,0,0,,,Match Report
+2022-11-03,Thu,Europa Lg,Group stage,Away,W 1–0,eng Manchester Utd,es Real Sociedad,Y,FW,90,0,1,0,0,2,0,1,0,2,1,0,0,0,0,0,,,Match Report
+2022-11-06,Sun,Premier League,Matchweek 15,Away,L 1–3,Manchester Utd,Aston Villa,Y*,FW,90,0,0,0,0,3,1,1,0,1,1,1,1,1,1,0,,,Match Report
+2023-01-22,Sun,Pro League,Matchweek 14,Home,W 1–0,Al-Nassr,Al-Ettifaq,Y*,FW,90,0,0,0,0,4,1,0,0,1,0,1,0,0,0,0,,,Match Report
+2023-02-03,Fri,Pro League,Matchweek 15,Away,D 2–2,Al-Nassr,Al-Fateh,Y*,FW,90,1,0,1,1,4,1,1,0,0,2,2,1,0,1,0,,,Match Report
+2023-02-09,Thu,Pro League,Matchweek 16,Away,W 4–0,Al-Nassr,Al-Wehda,Y*,FW,90,4,0,1,1,9,6,0,0,0,3,0,0,0,0,0,,,Match Report
+2023-02-17,Fri,Pro League,Matchweek 17,Home,W 2–1,Al-Nassr,Al-Taawoun,Y*,FW,90,0,2,0,0,4,3,0,0,2,1,1,0,0,0,0,,,Match Report
+2023-02-25,Sat,Pro League,Matchweek 18,Away,W 3–0,Al-Nassr,Damac,Y*,FW,90,3,0,1,1,6,3,0,0,0,0,2,2,0,0,0,,,Match Report
+2023-03-03,Fri,Pro League,Matchweek 19,Home,W 3–1,Al-Nassr,Al-Batin,Y*,FW,90,0,0,0,0,7,1,0,0,2,2,2,1,0,0,0,,,Match Report
+2023-03-09,Thu,Pro League,Matchweek 20,Away,L 0–1,Al-Nassr,Al-Ittihad,Y*,FW,90,0,0,0,0,3,1,0,0,1,2,1,1,0,0,0,,,Match Report
+2023-03-18,Sat,Pro League,Matchweek 21,Home,W 2–1,Al-Nassr,Abha,Y*,FW,90,1,0,0,0,4,2,0,0,0,1,1,1,0,0,0,,,Match Report
+2023-04-04,Tue,Pro League,Matchweek 22,Away,W 5–0,Al-Nassr,Al-Adalah,Y*,FW,90,2,0,1,1,2,2,0,0,0,0,4,0,0,0,0,,,Match Report
+2023-04-09,Sun,Pro League,Matchweek 23,Away,D 0–0,Al-Nassr,Al-Fayha,Y*,FW,90,0,0,0,0,4,1,0,0,1,0,4,1,0,0,0,,,Match Report
+2023-04-18,Tue,Pro League,Matchweek 25,Away,L 0–2,Al-Nassr,Al-Hilal,Y*,FW,90,0,0,0,0,4,0,1,0,1,3,1,0,1,1,0,,,Match Report
+2023-04-28,Fri,Pro League,Matchweek 24,Home,W 4–0,Al-Nassr,Al-Raed,Y*,FW,90,1,0,0,0,4,2,0,0,1,0,3,0,0,0,0,,,Match Report
+2023-05-08,Mon,Pro League,Matchweek 26,Home,D 1–1,Al-Nassr,Al-Khaleej,Y*,FW,90,0,0,0,0,8,2,0,0,0,4,1,1,0,2,0,,,Match Report
+2023-05-16,Tue,Pro League,Matchweek 27,Away,W 2–0,Al-Nassr,Al-Ta'ee,Y*,FW,90,1,0,1,1,5,3,1,0,2,1,2,0,0,0,0,,,Match Report
+2023-05-23,Tue,Pro League,Matchweek 28,Home,W 3–2,Al-Nassr,Al-Shabab,Y*,FW,90,1,0,0,0,4,1,0,0,1,1,2,1,0,0,0,,,Match Report
+2023-05-27,Sat,Pro League,Matchweek 29,Away,D 1–1,Al-Nassr,Al-Ettifaq,Y*,FW,83,0,0,0,0,8,4,0,0,0,2,0,2,0,0,0,,,Match Report

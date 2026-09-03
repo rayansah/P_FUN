@@ -1,0 +1,45 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,Match Report
+2016-09-10,Sat,La Liga,Matchweek 3,Home,W 5–2,Real Madrid,Osasuna,Y,FW,65,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,Match Report
+2016-09-14,Wed,Champions Lg,Group stage,Home,W 2–1,es Real Madrid,pt Sporting CP,Y,FW,90,1,0,0,0,4,2,0,0,0,2,1,0,1,0,0,0,0,Match Report
+2016-09-21,Wed,La Liga,Matchweek 5,Home,D 1–1,Real Madrid,Villarreal,Y,FW,90,0,0,0,0,4,2,1,0,3,1,1,1,0,0,0,0,0,Match Report
+2016-09-24,Sat,La Liga,Matchweek 6,Away,D 2–2,Real Madrid,Las Palmas,Y,FW,71,0,0,0,0,6,1,0,0,1,0,1,0,0,0,0,0,0,Match Report
+2016-09-27,Tue,Champions Lg,Group stage,Away,D 2–2,es Real Madrid,de Dortmund,Y,FW,90,1,0,0,0,6,3,0,0,0,2,1,2,1,0,0,0,0,Match Report
+2016-10-02,Sun,La Liga,Matchweek 7,Home,D 1–1,Real Madrid,Eibar,Y,FW,90,0,1,0,0,8,2,0,0,0,2,2,2,0,1,0,0,0,Match Report
+2016-10-15,Sat,La Liga,Matchweek 8,Away,W 6–1,Real Madrid,Real Betis,Y,FW,90,1,1,0,0,8,2,0,0,0,3,1,1,1,0,0,0,0,Match Report
+2016-10-18,Tue,Champions Lg,Group stage,Home,W 5–1,es Real Madrid,pl Legia Warsaw,Y,FW,90,0,2,0,0,9,2,1,0,2,2,1,1,0,1,0,0,0,Match Report
+2016-10-23,Sun,La Liga,Matchweek 9,Home,W 2–1,Real Madrid,Athletic Club,Y,FW,90,0,0,0,0,11,2,0,0,0,1,1,2,0,0,0,0,0,Match Report
+2016-10-29,Sat,La Liga,Matchweek 10,Away,W 4–1,Real Madrid,Alavés,Y,FW,90,3,0,1,2,8,4,0,0,0,3,0,0,0,1,0,1,0,Match Report
+2016-11-02,Wed,Champions Lg,Group stage,Away,D 3–3,es Real Madrid,pl Legia Warsaw,Y*,LW,90,0,1,0,0,9,2,0,0,2,0,0,1,0,0,0,0,0,Match Report
+2016-11-06,Sun,La Liga,Matchweek 11,Home,W 3–0,Real Madrid,Leganés,Y,FW,90,0,0,0,0,3,0,1,0,1,1,2,1,0,0,0,0,0,Match Report
+2016-11-19,Sat,La Liga,Matchweek 12,Away,W 3–0,Real Madrid,Atlético Madrid,Y,FW,82,3,0,1,1,5,5,1,0,1,3,1,0,1,0,0,1,0,Match Report
+2016-11-22,Tue,Champions Lg,Group stage,Away,W 2–1,es Real Madrid,pt Sporting CP,Y,FW,90,0,1,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,Match Report
+2016-11-26,Sat,La Liga,Matchweek 13,Home,W 2–1,Real Madrid,Sporting Gijón,Y,AM,90,2,0,1,1,7,5,0,0,0,4,1,4,0,0,0,0,0,Match Report
+2016-12-03,Sat,La Liga,Matchweek 14,Away,D 1–1,Real Madrid,Barcelona,Y,FW,90,0,0,0,0,6,3,0,0,1,1,0,0,0,0,0,0,0,Match Report
+2016-12-07,Wed,Champions Lg,Group stage,Home,D 2–2,es Real Madrid,de Dortmund,Y,FW,90,0,0,0,0,3,1,0,0,1,1,1,1,1,1,0,0,0,Match Report
+2017-01-07,Sat,La Liga,Matchweek 17,Home,W 5–0,Real Madrid,Granada,Y,FW,90,1,0,0,0,5,2,0,0,0,2,0,1,0,1,0,0,0,Match Report
+2017-01-15,Sun,La Liga,Matchweek 18,Away,L 1–2,Real Madrid,Sevilla,Y,FW,90,1,0,1,1,5,3,0,0,2,2,1,1,0,1,0,0,0,Match Report
+2017-01-18,Wed,Copa del Rey,Quarter-finals,Home,L 1–2,Real Madrid,Celta Vigo,Y,,90,0,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2017-01-21,Sat,La Liga,Matchweek 19,Home,W 2–1,Real Madrid,Málaga,Y,FW,90,0,0,0,0,4,3,0,0,1,1,4,1,0,0,0,0,0,Match Report
+2017-01-25,Wed,Copa del Rey,Quarter-finals,Away,D 2–2,Real Madrid,Celta Vigo,Y,,90,1,0,0,0,,,0,0,,,,,,,0,,,Match Report
+2017-01-29,Sun,La Liga,Matchweek 20,Home,W 3–0,Real Madrid,Real Sociedad,Y,FW,90,1,1,0,0,2,1,0,0,1,0,1,3,0,0,0,0,0,Match Report
+2017-02-11,Sat,La Liga,Matchweek 22,Away,W 3–1,Real Madrid,Osasuna,Y,FW,90,1,0,0,0,4,2,0,0,0,1,2,0,1,0,0,0,0,Match Report
+2017-02-15,Wed,Champions Lg,Round of 16,Home,W 3–1,es Real Madrid,it Napoli,Y,FW,90,0,1,0,0,3,0,0,0,0,1,3,3,0,1,0,0,0,Match Report
+2017-02-18,Sat,La Liga,Matchweek 23,Home,W 2–0,Real Madrid,Espanyol,Y,FW,90,0,0,0,0,3,0,0,0,0,1,3,4,0,0,0,0,0,Match Report
+2017-02-22,Wed,La Liga,Matchweek 16,Away,L 1–2,Real Madrid,Valencia,Y,FW,90,1,0,0,0,9,2,0,0,1,1,2,1,0,0,0,0,0,Match Report
+2017-02-26,Sun,La Liga,Matchweek 24,Away,W 3–2,Real Madrid,Villarreal,Y,FW,90,1,0,1,1,9,1,0,0,0,3,0,3,0,0,0,0,0,Match Report
+2017-03-01,Wed,La Liga,Matchweek 25,Home,D 3–3,Real Madrid,Las Palmas,Y,FW,90,2,0,1,1,8,2,1,0,2,2,1,2,0,0,0,0,0,Match Report
+2017-03-07,Tue,Champions Lg,Round of 16,Away,W 3–1,es Real Madrid,it Napoli,Y*,FW,90,0,0,0,0,3,1,0,0,1,3,1,3,0,0,0,0,0,Match Report
+2017-03-12,Sun,La Liga,Matchweek 27,Home,W 2–1,Real Madrid,Real Betis,Y,FW,90,1,0,0,0,6,2,0,0,0,1,3,1,0,0,0,0,0,Match Report
+2017-03-18,Sat,La Liga,Matchweek 28,Away,W 2–1,Real Madrid,Athletic Club,Y,FW,78,0,2,0,0,2,1,0,0,2,2,2,0,0,0,0,0,0,Match Report
+2017-04-02,Sun,La Liga,Matchweek 29,Home,W 3–0,Real Madrid,Alavés,Y,FW,90,0,1,0,0,7,1,0,0,1,1,1,1,0,1,0,0,0,Match Report
+2017-04-08,Sat,La Liga,Matchweek 31,Home,D 1–1,Real Madrid,Atlético Madrid,Y,FW,90,0,0,0,0,4,2,0,0,0,0,0,3,0,0,0,0,0,Match Report
+2017-04-12,Wed,Champions Lg,Quarter-finals,Away,W 2–1,es Real Madrid,de Bayern Munich,Y,FW,90,2,0,0,0,8,4,0,0,0,3,0,0,0,0,0,0,0,Match Report
+2017-04-18,Tue,Champions Lg,Quarter-finals,Home,W 4–2,es Real Madrid,de Bayern Munich,Y,FW,120,3,0,0,0,4,1,0,0,1,2,0,2,0,0,0,0,0,Match Report
+2017-04-23,Sun,La Liga,Matchweek 33,Home,L 2–3,Real Madrid,Barcelona,Y,FW,90,0,0,0,0,8,3,0,0,0,2,2,2,0,2,0,0,0,Match Report
+2017-04-29,Sat,La Liga,Matchweek 35,Home,W 2–1,Real Madrid,Valencia,Y,FW,90,1,0,0,1,8,2,0,0,1,1,0,2,0,0,0,0,0,Match Report
+2017-05-02,Tue,Champions Lg,Semi-finals,Home,W 3–0,es Real Madrid,es Atlético Madrid,Y,FW,90,3,0,0,0,5,3,0,0,1,4,0,1,0,0,0,0,0,Match Report
+2017-05-10,Wed,Champions Lg,Semi-finals,Away,L 1–2,es Real Madrid,es Atlético Madrid,Y,FW,90,0,0,0,0,6,2,0,0,1,3,2,2,0,0,0,0,0,Match Report
+2017-05-14,Sun,La Liga,Matchweek 37,Home,W 4–1,Real Madrid,Sevilla,Y,FW,90,2,0,0,0,4,3,0,0,0,3,1,0,0,1,0,0,0,Match Report
+2017-05-17,Wed,La Liga,Matchweek 21,Away,W 4–1,Real Madrid,Celta Vigo,Y,FW,83,2,0,0,0,3,2,0,0,1,1,0,1,0,0,0,0,0,Match Report
+2017-05-21,Sun,La Liga,Matchweek 38,Away,W 2–0,Real Madrid,Málaga,Y,FW,90,1,0,0,0,3,2,0,0,1,0,1,0,0,0,0,0,0,Match Report
+2017-06-03,Sat,Champions Lg,Final,Neutral,W 4–1,es Real Madrid,it Juventus,Y,FW,90,2,0,0,0,6,2,0,0,0,1,0,2,0,0,0,0,0,Match Report
