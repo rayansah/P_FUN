@@ -8,7 +8,8 @@ namespace P_FUN
         [STAThread]
         static void Main()
         {
-            var matches CsvImporter.Import("D:/ETMLFID2/I323/Projet/P_FUN/P_FUN/data/2002-2003.csv");
+            ApplicationConfiguration.Initialize();
+            Application.Run(new Form1());
         }
     }
 }
